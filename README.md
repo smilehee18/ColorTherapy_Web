@@ -1,1 +1,1 @@
-# myproject
+# MyColorTherapy-project
