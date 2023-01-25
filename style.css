@@ -4518,7 +4518,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(204, 204, 255, 0.7) 0%, rgba(204, 204, 255, 0.7) 100%), url("../cloud.jpg");
+  background: linear-gradient(to bottom, rgba(204, 204, 255, 0.7) 0%, rgba(204, 204, 255, 0.7) 100%), url("cloud.jpg");
   background-position: center;
   background-repeat: repeat-y;
   background-attachment: scroll;
@@ -4619,7 +4619,7 @@ header.masthead h1 {
 
 .memo 
 {
-  background-image:url('../note.png');
+  background-image:url('note.png');
   background-repeat: no-repeat;
   background-position: 50%;
 }
